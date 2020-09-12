@@ -1,16 +1,15 @@
 //
-//  MovieCell.swift
-//  Flex
+//  MovieCellTableViewCell.swift
+//  Flix App
 //
 //  Created by Aadit Dubey on 9/4/20.
-//  Copyright © 2020 LD. All rights reserved.
+//  Copyright © 2020 Tanay Agrawwal. All rights reserved.
 //
 
 import UIKit
 
 class MovieCell: UITableViewCell {
-
-    @IBOutlet weak var poster: UIImageView!
+    @IBOutlet var poster: UIImageView!
     @IBOutlet weak var title: UILabel!
     @IBOutlet weak var desc: UILabel!
     override func awakeFromNib() {

@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Flex
+//  Flix App
 //
 //  Created by Aadit Dubey on 9/4/20.
-//  Copyright © 2020 LD. All rights reserved.
+//  Copyright © 2020 Tanay Agrawwal. All rights reserved.
 //
 
 import UIKit

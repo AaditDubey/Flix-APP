@@ -1,14 +1,14 @@
 //
-//  FlexUITests.swift
-//  FlexUITests
+//  Flix_AppUITests.swift
+//  Flix AppUITests
 //
 //  Created by Aadit Dubey on 9/4/20.
-//  Copyright © 2020 LD. All rights reserved.
+//  Copyright © 2020 Tanay Agrawwal. All rights reserved.
 //
 
 import XCTest
 
-class FlexUITests: XCTestCase {
+class Flix_AppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
